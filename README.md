@@ -1,4 +1,4 @@
-# Neptune-4 Continuous Printing Mod
+# ANPAC - automatic neptune printing and clearing
 
 ## Overview
 
