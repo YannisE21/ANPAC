@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Neptune-4 Continuous Printing mod! This enhancement is designed for the Neptune 4 (Pro) 3D printer running OpenNeptune, enabling seamless and flawless continuous printing. Say goodbye to interruptions and hello to uninterrupted creativity!
+Welcome to the Neptune-4 ANPAC mod for continuous printing! This enhancement is designed for the Neptune 4 (Pro) 3D printer running OpenNeptune, enabling seamless and flawless continuous printing. Say goodbye to interruptions and hello to uninterrupted creativity!
 
 ## Features
 
