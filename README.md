@@ -7,9 +7,15 @@
   <br>
 </h1>
 
-<p align="center">
-<img src="./Photos/built-for-klipper-made-with-love.svg" width="400">
+  <p align="center">
+    <a href="https://github.com/YannisE21/BatchOS/issues">Report Bug</a>
+    .
+    <a href="https://github.com/YannisE21/BatchOS/issues">Request Feature</a>
+  </p>
 </p>
+
+![Downloads](https://img.shields.io/github/downloads/YannisE21/BatchOS/total) ![Contributors](https://img.shields.io/github/contributors/YannisE21/BatchOS?color=dark-green) ![Issues](https://img.shields.io/github/issues/YannisE21/BatchOS) ![License](https://img.shields.io/github/license/YannisE21/BatchOS) 
+
 
 ## Overview
 
@@ -55,3 +61,7 @@ Welcome to the Neptune-4 ANPAC mod for continuous printing! This enhancement is 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+<p align="center">
+<img src="./Photos/built-for-klipper-made-with-love.svg" width="400">
+</p>
