@@ -27,7 +27,13 @@ OpenNeptune is an open-source firmware specifically developed for the Neptune 4 
 Github: https://github.com/OpenNeptune3D/OpenNept4une
 
 ## Installation
-Comming soon...
+1. Download the latest release.
+2. Upload files to your printer
+3. Create a new folder named "ANPAC"
+4. Move the ANPAC.cfg to the folder
+5. Check the settings.
+6. Replace your end gcode with ANPAK_END in your slicer
+7. Test if it works
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
