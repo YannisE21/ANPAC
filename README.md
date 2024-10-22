@@ -1,4 +1,15 @@
-# ANPAC - automatic neptune printing and clearing
+<h1 align="center">
+  <br>
+  <img src="https://placehold.co/600x400" width="260"></a>
+  <br>
+    Automatic Neptune Printing and Clearing
+
+  <br>
+</h1>
+
+<p align="center">
+<img src="./Photos/built-for-klipper-made-with-love.svg" width="400">
+</p>
 
 ## Overview
 
