@@ -21,19 +21,37 @@ Welcome to the Neptune-4 ANPAC mod for continuous printing! This enhancement is 
 - **Easy Installation**: Simple setup process to get you up and running quickly.
 - **Compatibility**: Fully compatible with the Neptune 4 (Pro) and OpenNeptune firmware.
 
-# What is OpenNeptune?
-OpenNeptune is an open-source firmware specifically developed for the Neptune 4 series of 3D printers. It provides advanced features and improvements over the stock firmware, enhancing the overall printing experience. With OpenNeptune, users gain access to customizable settings, improved stability, and a growing community of enthusiasts contributing to its ongoing development. One of the standout features of OpenNeptune is its **queue function**, which allows multiple print jobs to be scheduled and executed in succession without manual intervention. This functionality makes continuous printing possible, enabling users to run complex projects or large batches seamlessly.
+# What is [OpenNeptune](https://github.com/OpenNeptune3D/OpenNept4une)?
+[OpenNeptune](https://github.com/OpenNeptune3D/OpenNept4une) is an open-source firmware specifically developed for the Neptune 4 series of 3D printers. It provides advanced features and improvements over the stock firmware, enhancing the overall printing experience. With OpenNeptune, users gain access to customizable settings, improved stability, and a growing community of enthusiasts contributing to its ongoing development. One of the standout features of OpenNeptune is its **queue function**, which allows multiple print jobs to be scheduled and executed in succession without manual intervention. This functionality makes continuous printing possible, enabling users to run complex projects or large batches seamlessly.
 
-Github: https://github.com/OpenNeptune3D/OpenNept4une
+## Installation and Setup
 
-## Installation
-1. Download the latest release.
-2. Upload files to your printer
-3. Create a new folder named "ANPAC"
-4. Move the ANPAC.cfg to the folder
-5. Check the settings.
-6. Replace your end gcode with ANPAK_END in your slicer
-7. Test if it works
+### 1. **Download the Latest Release**
+   - Visit the [Releases page](./releases) and download the latest version of ANPAC.
+
+### 2. **Upload Files to Your Printer**
+   - Connect your printer to your computer via USB or SD card.
+   - Upload the downloaded ANPAC files to your device.
+
+### 3. **Create the ANPAC Folder**
+   - Create a new folder on your printer called `ANPAC`.
+   - This keeps all relevant files organized and easy to access.
+
+### 4. **Move the ANPAC Configuration File**
+   - Move the `ANPAC.cfg` file into the newly created `ANPAC` folder.
+   - This configuration file contains all the key settings for the ANPAC system.
+
+### 5. **Check the Settings**
+   - Open the `ANPAC.cfg` file and review the default settings.
+   - Customize the parameters for cooling, wiping, and retraction to suit your needs, or use the default values.
+
+### 6. **Replace End G-Code in Your Slicer**
+   - Replace your slicer's end G-code with the command `ANPAC_END`.
+   - This ensures that after each print, the ANPAC macro is triggered to clean the print bed and prepare the printer for the next job.
+
+### 7. **Test the Installation**
+   - Run a test print to verify that ANPAC is working correctly.
+   - Observe if the macro activates after the print finishes and cleans the print bed as expected.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
