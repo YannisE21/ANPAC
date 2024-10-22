@@ -8,14 +8,11 @@
 </h1>
 
   <p align="center">
-    <a href="https://github.com/YannisE21/BatchOS/issues">Report Bug</a>
+    <a href="https://github.com/YannisE21/ANPAC/issues">Report Bug</a>
     .
-    <a href="https://github.com/YannisE21/BatchOS/issues">Request Feature</a>
+    <a href="https://github.com/YannisE21/ANPAC/issues">Request Feature</a>
   </p>
 </p>
-
-![Downloads](https://img.shields.io/github/downloads/YannisE21/BatchOS/total) ![Contributors](https://img.shields.io/github/contributors/YannisE21/BatchOS?color=dark-green) ![Issues](https://img.shields.io/github/issues/YannisE21/BatchOS) ![License](https://img.shields.io/github/license/YannisE21/BatchOS) 
-
 
 ## Overview
 
