@@ -20,7 +20,7 @@ Welcome to the Neptune-4 ANPAC mod for continuous printing! This enhancement is 
 
 ## Features
 
-- **Continuous Printing**: Effortlessly print large models without the need for manual restarts.
+- **Continuous Printing**: Effortlessly print multiple models without the need for manual restarts.
 - **Easy Installation**: Simple setup process to get you up and running quickly.
 - **Compatibility**: Fully compatible with the Neptune 4 (Pro) and OpenNeptune firmware.
 
