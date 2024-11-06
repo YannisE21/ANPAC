@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://placehold.co/600x400" width="260"></a>
+  <img src="./Photos/ANPAC_Logo.webp" width="260"></a>
   <br>
     Automatic Neptune Printing and Clearing
 
